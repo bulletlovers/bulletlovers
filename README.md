@@ -1,6 +1,6 @@
 <div align="center">
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant&duration=3300&pause=670&color=F1C08C&center=true&vCenter=true&width=435&lines=i+will+always+think+about+you;that's+why+i'm+calling+you+back;on+my+way+through+..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant&duration=2000&pause=700&color=F1C08C&center=true&vCenter=true&width=435&lines=i+will+always+think+about+you;that's+why+i'm+calling+you+back;on+my+way+through+..." alt="Typing SVG" /></a>
 
 $\color{#C4BE95}♡$
 
